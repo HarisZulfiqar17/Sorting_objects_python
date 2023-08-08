@@ -1,5 +1,5 @@
-# Sorting_objects-_python
-Sorting objects by using robotics arm based on color detected using camera
+n# Sorting_objects_Robotic manipulator_python
+Sorting objects by using robotics arm based on color detection using camera
 
 Edit the serial port of the arduino connected and camera source in Controlling_servos_based_on_color.py.
 Whatever color threshold you want change it in Controlling_servos_based_on_color.py
